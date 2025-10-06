@@ -14,7 +14,7 @@ To build a predictive machine learning model that determines **loan approval sta
 
 ## 🧠 Dataset
 **Name:** Loan Approval Prediction Dataset  
-**Source:** Kaggle — [Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/ninzaami/loan-predication)
+**Source:** Kaggle — [Loan Approval Prediction Dataset](https://www.kaggle.com/datasets/architsharma01/loan-approval-prediction-dataset)
 
 **Features:**
 | Column | Description |
@@ -79,12 +79,10 @@ To build a predictive machine learning model that determines **loan approval sta
 
 ---
 
-## 📈 Results Summary
-| Model | Accuracy | Precision | Recall | F1-Score |
-|--------|-----------|------------|---------|-----------|
-| Logistic Regression | ~0.85 | ~0.84 | ~0.83 | ~0.83 |
-| Decision Tree | ~0.82 | ~0.80 | ~0.79 | ~0.79 |
-
+🔍 Model Performance
+Model	Accuracy	Precision	Recall	F1 Score
+Logistic Regression	0.932	0.908	0.913	0.910
+Decision Tree	0.977	0.975	0.963	0.969
 *(Values may vary depending on random seed and dataset distribution.)*
 
 ---
